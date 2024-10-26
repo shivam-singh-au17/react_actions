@@ -1,0 +1,25 @@
+crossorigin
+async & defer
+
+caret and tilde in package.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npx parcel index.html
+npx parcel index.html --https
+npx parcel build index.html
+
+Transitive Dependencies - One package have many dependencies witch called transitive dependencies.

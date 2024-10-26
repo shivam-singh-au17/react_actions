@@ -1,0 +1,28 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "simple",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-singh-au17/react_actions.git"
+  },
+  "author": "Shivam Singh <shivamsingh4458@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-singh-au17/react_actions/issues"
+  },
+  "homepage": "https://github.com/shivam-singh-au17/react_actions#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
